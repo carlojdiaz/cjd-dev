@@ -12,12 +12,24 @@ const theme = createTheme({
     },
   },
   typography: {
+    color: '#363636',
     h1: {
-      color: '#363636',
       fontSize: 44,
       fontWeight: 200,
       margin: 0,
       padding: 0
+    },
+    h2: {
+      fontSize: 28,
+      fontWeight: 200,
+      fontStyle: 'normal',
+      margin: 0,
+      padding: 0
+    },
+    body1: {
+      fontSize: 18,
+      fontWeight: 200,
+      fontStyle: 'normal',
     },
     fontFamily: 'Outfit, sans-serif'
   },

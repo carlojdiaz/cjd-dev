@@ -1,8 +1,11 @@
 import React from 'react'
+import { Typography } from '@mui/material'
 
 function Home() {
   return (
-    <div>Home</div>
+    <>
+      <Typography variant='h2' align='center'>Home</Typography>
+    </>
   )
 }
 

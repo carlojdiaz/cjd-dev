@@ -13,12 +13,12 @@ function TabPanel(props) {
       <div
         role="tabpanel"
         hidden={value !== index}
-        id={`vertical-tabpanel-${index}`}
-        aria-labelledby={`vertical-tab-${index}`}
+        id={`tabpanel-${index}`}
+        aria-labelledby={`tab-${index}`}
         {...other}
       >
         {value === index && (
-          <Box sx={{ p: 3 }}>
+          <Box sx={{ p: 1 }}>
             <Typography>{children}</Typography>
           </Box>
         )}
@@ -36,45 +36,50 @@ function Navbar() {
 
     return (
         <>
-        <Box sx={{ borderBottom: 1, borderColor: 'divider'}}>
-
-            <Grid 
-                container spacing={2} 
-                alignItems="flex-end" 
-                justifyContent={"space-around"}
+            <Box 
+                sx={{ 
+                    borderBottom: 1, 
+                    borderColor: 'divider'
+                }}
             >
-                <Grid item>
-                    <Typography variant='h1' paddingBottom={"0.5rem"}>Carlo J Diaz</Typography>
+
+                <Grid 
+                    container spacing={25} 
+                    alignItems="flex-end" 
+                    justifyContent={"space-around"}
+                >
+                    <Grid item>
+                        <Typography variant='h1' paddingBottom={"0.5rem"}>Carlo J Diaz</Typography>
+                    </Grid>
+
+                    <Grid item>
+                        <Tabs
+                            value = {value}
+                            onChange = {handleClick}
+                            textColor="primary"
+                        >
+                            <Tab label="Home" value={0} />
+                            <Tab label="About" value={1} />
+                            <Tab label="Contact" value={2} />
+
+                        </Tabs>
+
+                    </Grid>
+                    
                 </Grid>
+            </Box>
 
-                <Grid item>
-                    <Tabs
-                        value = {value}
-                        onChange = {handleClick}
-                        textColor="primary"
-                    >
-                        <Tab label="Home" value={0} />
-                        <Tab label="About" value={1} />
-                        <Tab label="Contact" value={2} />
+            <TabPanel value={value} index={0}>
+                <Home />
+            </TabPanel>
 
-                    </Tabs>
+            <TabPanel value={value} index={1}>
+                <About />
+            </TabPanel>
 
-                </Grid>
-                
-            </Grid>
-        </Box>
-
-        <TabPanel value={value} index={0}>
-            <Home />
-        </TabPanel>
-
-        <TabPanel value={value} index={1}>
-            <About />
-        </TabPanel>
-
-        <TabPanel value={value} index={2}>
-            <Contact />
-        </TabPanel>
+            <TabPanel value={value} index={2}>
+                <Contact />
+            </TabPanel>
 
         </>
     )

@@ -15,19 +15,34 @@ const theme = createTheme({
     color: '#363636',
     h1: {
       fontSize: 44,
-      fontWeight: 200,
+      fontWeight: 400,
       margin: 0,
       padding: 0
     },
     h2: {
       fontSize: 30,
-      fontWeight: 200,
+      fontWeight: 400,
       fontStyle: 'normal',
       margin: 0,
       padding: 0
     },
     body1: {
       fontSize: 18,
+      fontWeight: 200,
+      fontStyle: 'normal',
+    },
+    body2: {
+      fontSize: 16,
+      fontWeight: 200,
+      fontStyle: 'normal',
+    },
+    subtitle1: {
+      fontSize: 14,
+      fontWeight: 200,
+      fontStyle: 'italics',
+    },
+    subtitle2: {
+      fontSize: 12,
       fontWeight: 200,
       fontStyle: 'normal',
     },

@@ -20,7 +20,7 @@ const theme = createTheme({
       padding: 0
     },
     h2: {
-      fontSize: 28,
+      fontSize: 30,
       fontWeight: 200,
       fontStyle: 'normal',
       margin: 0,

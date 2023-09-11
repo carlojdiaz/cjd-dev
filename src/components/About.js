@@ -37,7 +37,7 @@ function About() {
             </Grid>
 
             <Grid item>
-              <Image src={selfportrait} width='325px' duration={1500}/>
+              <Image src={selfportrait} width='100%' duration={1500}/>
             </Grid>
 
         </Grid>

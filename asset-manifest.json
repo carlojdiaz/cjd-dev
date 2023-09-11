@@ -1,20 +1,29 @@
 {
   "files": {
-    "main.css": "/cjd-dev/static/css/main.92843ec8.css",
-    "main.js": "/cjd-dev/static/js/main.9caa2dcf.js",
+    "main.css": "/cjd-dev/static/css/main.733f6951.css",
+    "main.js": "/cjd-dev/static/js/main.1fead9bf.js",
     "static/js/787.3fcc80ee.chunk.js": "/cjd-dev/static/js/787.3fcc80ee.chunk.js",
+    "static/media/georgetown2.JPG": "/cjd-dev/static/media/georgetown2.e86fa5f69994c61cfb30.JPG",
+    "static/media/georgetown1.JPG": "/cjd-dev/static/media/georgetown1.f871ec5421314fc3dc37.JPG",
+    "static/media/philippinesgolf.JPG": "/cjd-dev/static/media/philippinesgolf.d10cfcbf907f4b48b7b5.JPG",
+    "static/media/coronado.JPG": "/cjd-dev/static/media/coronado.c240f5c08bb43df16053.JPG",
+    "static/media/hawksbilltrail.JPG": "/cjd-dev/static/media/hawksbilltrail.d065b5556e64d5cf2f08.JPG",
+    "static/media/lanternfest.JPG": "/cjd-dev/static/media/lanternfest.b127e627828977245124.JPG",
+    "static/media/rock.JPG": "/cjd-dev/static/media/rock.e2b4175c1693fb30da49.JPG",
+    "static/media/lanternfestwater.JPG": "/cjd-dev/static/media/lanternfestwater.babfb57cc8b632b780fd.JPG",
     "static/media/selfportrait.png": "/cjd-dev/static/media/selfportrait.74d76d446728345fd77b.png",
+    "static/media/bigbluefountain.JPEG": "/cjd-dev/static/media/bigbluefountain.7d96d0f51861e1d9eae3.JPEG",
     "static/media/outfit-latin-400-normal.woff": "/cjd-dev/static/media/outfit-latin-400-normal.741bd8369a31b33122b4.woff",
     "static/media/outfit-latin-400-normal.woff2": "/cjd-dev/static/media/outfit-latin-400-normal.8f48df74b0b71f7810ab.woff2",
     "static/media/outfit-latin-ext-400-normal.woff": "/cjd-dev/static/media/outfit-latin-ext-400-normal.bcad4dc76d21abb653fc.woff",
     "static/media/outfit-latin-ext-400-normal.woff2": "/cjd-dev/static/media/outfit-latin-ext-400-normal.d686e869b41efb6c1f03.woff2",
     "index.html": "/cjd-dev/index.html",
-    "main.92843ec8.css.map": "/cjd-dev/static/css/main.92843ec8.css.map",
-    "main.9caa2dcf.js.map": "/cjd-dev/static/js/main.9caa2dcf.js.map",
+    "main.733f6951.css.map": "/cjd-dev/static/css/main.733f6951.css.map",
+    "main.1fead9bf.js.map": "/cjd-dev/static/js/main.1fead9bf.js.map",
     "787.3fcc80ee.chunk.js.map": "/cjd-dev/static/js/787.3fcc80ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92843ec8.css",
-    "static/js/main.9caa2dcf.js"
+    "static/css/main.733f6951.css",
+    "static/js/main.1fead9bf.js"
   ]
 }

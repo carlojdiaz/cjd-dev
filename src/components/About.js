@@ -28,9 +28,9 @@ function About() {
         >
             <Grid item>
                 <Typography variant='body1'>
-                    Carlo recently graduated from Old Dominion University, receiving his Bachelor's of Science in Computer Science He is an aspiring software engineer, with an internship experience in the field with Amazon.<br/><br/>
+                    Carlo is currently a software development engineer (L4) at Amazon. He obtained Bachelor's of Science in Computer Science at Old Dominion University in Norfolk, VA.<br/><br/>
                     
-                    Outside his professional life, his hobbies include video games, watching anime, playing piano, exercising, playing sports, spending time with friends and his large family, and travelling (when his personal finances permit).<br/><br/>
+                    Outside his career, his hobbies include video games, watching anime, playing piano, exercising, playing sports, spending time with friends and his large family, and travelling (when his personal finances permit).<br/><br/>
 
                     Striving on past experiences and new discoveries, Carlo maintains his diligence to continuously learn something new about himself, the people around him, and the world he lives in.
                 </Typography>

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cjd-dev/static/css/main.733f6951.css",
-    "main.js": "/cjd-dev/static/js/main.1fead9bf.js",
+    "main.js": "/cjd-dev/static/js/main.a5f28f5e.js",
     "static/js/787.3fcc80ee.chunk.js": "/cjd-dev/static/js/787.3fcc80ee.chunk.js",
     "static/media/georgetown2.JPG": "/cjd-dev/static/media/georgetown2.e86fa5f69994c61cfb30.JPG",
     "static/media/georgetown1.JPG": "/cjd-dev/static/media/georgetown1.f871ec5421314fc3dc37.JPG",
@@ -19,11 +19,11 @@
     "static/media/outfit-latin-ext-400-normal.woff2": "/cjd-dev/static/media/outfit-latin-ext-400-normal.d686e869b41efb6c1f03.woff2",
     "index.html": "/cjd-dev/index.html",
     "main.733f6951.css.map": "/cjd-dev/static/css/main.733f6951.css.map",
-    "main.1fead9bf.js.map": "/cjd-dev/static/js/main.1fead9bf.js.map",
+    "main.a5f28f5e.js.map": "/cjd-dev/static/js/main.a5f28f5e.js.map",
     "787.3fcc80ee.chunk.js.map": "/cjd-dev/static/js/787.3fcc80ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.733f6951.css",
-    "static/js/main.1fead9bf.js"
+    "static/js/main.a5f28f5e.js"
   ]
 }

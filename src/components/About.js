@@ -28,7 +28,7 @@ function About() {
         >
             <Grid item>
                 <Typography variant='body1'>
-                    Carlo is currently a software development engineer (L4) at Amazon. He obtained Bachelor's of Science in Computer Science at Old Dominion University in Norfolk, VA.<br/><br/>
+                    Carlo is currently a software development engineer (L4) at Amazon. He obtained his Bachelor's of Science in Computer Science at Old Dominion University in Norfolk, VA.<br/><br/>
                     
                     Outside his career, his hobbies include video games, watching anime, playing piano, exercising, playing sports, spending time with friends and his large family, and travelling (when his personal finances permit).<br/><br/>
 
